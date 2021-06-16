@@ -10,7 +10,7 @@ Será utilizada a linguagem Python e principalmente as bibliotecas numpy e panda
 
 O dataset 'FIFA21_official_data.csv' é um banco de dados do jogo FIFA 21, que é um videogame de simulação de futebol desenvolvido e publicado pela Electronic Arts. Este banco de dados, possuí informações, acerca dos jogadores, dispostas em 65 colunas. 
 
-A seguir vamos comentar algumas colunas:
+A seguir temos todas as colunas do dataset e algumas estão comentadas:
 
  'ID', número associado a cada jogador <br>
  'Name', nome de cada jogador<br>
