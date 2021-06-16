@@ -12,22 +12,22 @@ O dataset 'FIFA21_official_data.csv' é um banco de dados do jogo FIFA 21, que �
 
 A seguir vamos comentar algumas colunas:
 
- 'ID', número associado a cada jogador
- 'Name', nome de cada jogador
- 'Age', idade de cada jogador
- 'Photo', foto de cada jogador
- 'Nationality', nacionalidade de cada jogador
- 'Flag', bandeira associada a nacionalidade de cada jogador
- 'Overall', nível de habilidade padrão medido de 0 a 100 de cada jogador. É composto pelas demais métricas associadas a demais colunas do dataset. Note que quanto melhor um jogador mais alto é o seu overall.  
- 'Potential', simboliza a maior expectativa sobre como o overall do jogador vai evoluir, assim quanto mais novo um jogador mais potencial de melhorar o seu overall ele tem, 'Potential' seria a possibilidade máxima de crescimento.
- 'Club', time de cada jogador.
- 'Club Logo', foto do time associado ao jogador.
- 'Value', valor de mercado do jogador, é cotado em euros.
- 'Wage', salário do jogador, é cotado em euros.
- 'Preferred Foot', pé preferido do jogador.
- 'International Reputation',
- 'Weak Foot', habilidade com o pé que não é o preferido do jogador, medido de 0 a 5, onde 0 representa a mais baixa habilidade.
- 'Skill Moves', de 0 a 5 a facilidade que o jogador tem para fazer movimentos especiais no jogo. 0 representa a maior dificuldade
+ 'ID', número associado a cada jogador <br>
+ 'Name', nome de cada jogador<br>
+ 'Age', idade de cada jogador<br>
+ 'Photo', foto de cada jogador<br>
+ 'Nationality', nacionalidade de cada jogador<br>
+ 'Flag', bandeira associada a nacionalidade de cada jogador<br>
+ 'Overall', nível de habilidade padrão medido de 0 a 100 de cada jogador. É composto pelas demais métricas associadas a demais colunas do dataset. Note que quanto melhor um jogador mais alto é o seu overall.  <br>
+ 'Potential', simboliza a maior expectativa sobre como o overall do jogador vai evoluir, assim quanto mais novo um jogador mais potencial de melhorar o seu overall ele tem, 'Potential' seria a possibilidade máxima de crescimento.<br>
+ 'Club', time de cada jogador.<br>
+ 'Club Logo', foto do time associado ao jogador.<br>
+ 'Value', valor de mercado do jogador, é cotado em euros.<br>
+ 'Wage', salário do jogador, é cotado em euros.<br>
+ 'Preferred Foot', pé preferido do jogador.<br>
+ 'International Reputation',<br>
+ 'Weak Foot', habilidade com o pé que não é o preferido do jogador, medido de 0 a 5, onde 0 representa a mais baixa habilidade.<br><br>
+ 'Skill Moves', de 0 a 5 a facilidade que o jogador tem para fazer movimentos especiais no jogo. 0 representa a maior dificuldade<br>
  'Work Rate',
  'Body Type',
  'Real Face',
