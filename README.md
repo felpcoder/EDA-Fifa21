@@ -4,4 +4,4 @@ O objetivo principal é fazer uma análise exploratória de dados, usando o data
 
 https://www.kaggle.com/bryanb/fifa-player-stats-database
 
-Será utilizada a linguagem Python e as bibliotecas numpy e pandas.
+Será utilizada a linguagem Python e principalmente as bibliotecas numpy e pandas.
