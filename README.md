@@ -26,56 +26,56 @@ A seguir vamos comentar algumas colunas:
  'Wage', salário do jogador, é cotado em euros.<br>
  'Preferred Foot', pé preferido do jogador.<br>
  'International Reputation',<br>
- 'Weak Foot', habilidade com o pé que não é o preferido do jogador, medido de 0 a 5, onde 0 representa a mais baixa habilidade.<br><br>
+ 'Weak Foot', habilidade com o pé que não é o preferido do jogador, medido de 0 a 5, onde 0 representa a mais baixa habilidade.<br>
  'Skill Moves', de 0 a 5 a facilidade que o jogador tem para fazer movimentos especiais no jogo. 0 representa a maior dificuldade<br>
- 'Work Rate',
- 'Body Type',
- 'Real Face',
- 'Position', posição em que cada jogador é escalado por default.
- 'Jersey Number',
- 'Joined', data que o jogador foi contratado por determinado clube.
- 'Loaned From', 
- 'Contract Valid Until', validade do contrato de cada jogador.
- 'Height',
- 'Weight',
- 'Best Position', melhor posição em que cada jogador pode ser escalado.
- 'Best Overall Rating', no Fifa existem várias versões do Overall dos jogadores através de cartas comemorativas. Essa coluna informa o Overall mais alto que aparece dentre as cartas dos jogadores. Cartas são versões comemorativas dos jogadores que são usadas em um dos modos do jogo.
- 'Release Clause', valor da clausula de quebra de contrato de cada jogador, é cotada em euros. 
- 'DefensiveAwareness'
- 
-A seguir, todas as colunas representam o nível de habilidade do jogador, que são medidas de 0 a 100 onde 100 representa o máximo de habilidade possível e 0 sem habilidade nenhuma, para fazer a ação determinada pelo nome da coluna. Assim, quanto maior o valor do jogador em 'Crossing', melhor o jogador efetuará cruzamentos no jogo. 
-
- 'Crossing',
- 'Finishing',
- 'HeadingAccuracy',
- 'ShortPassing',
- 'Volleys',
- 'Dribbling',
- 'Curve',
- 'FKAccuracy',
- 'LongPassing',
- 'BallControl',
- 'Acceleration',
- 'SprintSpeed',
- 'Agility',
- 'Reactions',
- 'Balance',
- 'ShotPower',
- 'Jumping',
- 'Stamina',
- 'Strength',
- 'LongShots',
- 'Aggression',
- 'Interceptions',
- 'Positioning',
- 'Vision',
- 'Penalties',
- 'Composure',
- 'Marking',
- 'StandingTackle',
- 'SlidingTackle',
- 'GKDiving',
- 'GKHandling',
- 'GKKicking',
- 'GKPositioning',
- 'GKReflexes',
+ 'Work Rate',<br>
+ 'Body Type',<br>
+ 'Real Face',<br>
+ 'Position', posição em que cada jogador é escalado por default.<br>
+ 'Jersey Number',<br>
+ 'Joined', data que o jogador foi contratado por determinado clube.<br>
+ 'Loaned From', <br>
+ 'Contract Valid Until', validade do contrato de cada jogador.<br>
+ 'Height',<br>
+ 'Weight',<br>
+ 'Best Position', melhor posição em que cada jogador pode ser escalado.<br>
+ 'Best Overall Rating', no Fifa existem várias versões do Overall dos jogadores através de cartas comemorativas. Essa coluna informa o Overall mais alto que aparece dentre as cartas dos jogadores. Cartas são versões comemorativas dos jogadores que são usadas em um dos modos do jogo.<br>
+ 'Release Clause', valor da clausula de quebra de contrato de cada jogador, é cotada em euros. <br>
+ 'DefensiveAwareness'<br>
+ <br>
+A seguir, todas as colunas representam o nível de habilidade do jogador, que são medidas de 0 a 100 onde 100 representa o máximo de habilidade possível e 0 sem habilidade nenhuma, para fazer a ação determinada pelo nome da coluna. Assim, quanto maior o valor do jogador em 'Crossing', melhor o jogador efetuará cruzamentos no jogo. <br>
+<br>
+ 'Crossing',<br>
+ 'Finishing',<br>
+ 'HeadingAccuracy',<br>
+ 'ShortPassing',<br>
+ 'Volleys',<br>
+ 'Dribbling',<br>
+ 'Curve',<br>
+ 'FKAccuracy',<br>
+ 'LongPassing',<br>
+ 'BallControl',<br>
+ 'Acceleration',<br>
+ 'SprintSpeed',<br>
+ 'Agility',<br>
+ 'Reactions',<br>
+ 'Balance',<br>
+ 'ShotPower',<br>
+ 'Jumping',<br>
+ 'Stamina',<br>
+ 'Strength',<br>
+ 'LongShots',<br><br>
+ 'Aggression',<br>
+ 'Interceptions',<br>
+ 'Positioning',<br>
+ 'Vision',<br>
+ 'Penalties',<br>
+ 'Composure',<br>
+ 'Marking',<br>
+ 'StandingTackle',<br>
+ 'SlidingTackle',<br>
+ 'GKDiving',<br>
+ 'GKHandling',<br>
+ 'GKKicking',<br>
+ 'GKPositioning',<br>
+ 'GKReflexes',<br>
