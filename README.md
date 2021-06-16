@@ -64,7 +64,7 @@ A seguir, todas as colunas representam o n√≠vel de habilidade do jogador, que s√
  'Jumping',<br>
  'Stamina',<br>
  'Strength',<br>
- 'LongShots',<br><br>
+ 'LongShots',<br>
  'Aggression',<br>
  'Interceptions',<br>
  'Positioning',<br>
