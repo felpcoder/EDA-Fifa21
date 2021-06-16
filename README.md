@@ -1,6 +1,6 @@
 # EDA-Fifa21
 
-O objetivo principal é fazer uma análise exploratória de dados, usando o dataset 'FIFA21_official_data.csv' disponível no kaggle. 
+O objetivo principal é fazer uma análise exploratória de dados, usando o dataset 'FIFA21_official_data.csv' disponível no kaggle. O projeto ainda está em andamento e em breve será feita uma visualização de dados no PowerBI.
 
 https://www.kaggle.com/bryanb/fifa-player-stats-database
 
